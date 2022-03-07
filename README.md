@@ -2,8 +2,8 @@
 
 ## Overview of Project
 
-This project was created to analyze the outcomes of refactoring code, in order to speed up the run time of the analysis in VBA. Steve, the person who is asking us to create this code, originally asked us to analyze stock results of 12 stocks. However, he wants to expand the selection, and analyze a much greater volume of stocks in the future. Therefore, we must refactor this code in order to make it faster, and work for a larger set of data. 
-In this analysis, we are looking at the run time of the original, not-refactored code, and comparing it to the run time of the refactored code. 
+This project was created to analyze the outcomes of refactoring code, in order to speed up the run time of the analysis in VBA. Steve, the person who is asking us to create this code, originally asked us to analyze stock results of 12 stocks. However, he wants to expand the selection, and analyze a much greater volume of stocks in the future. Therefore, we must refactor the original code in order to make it faster, and work for a larger set of data. 
+In this analysis, we are looking at the run time of the original, not-refactored code, and comparing it to the run time of the refactored code, along with some advantages/disadvantages for the process.
 
 ## Results
 
